@@ -1,0 +1,13 @@
+{
+	"KPlugin": {
+		"Name": "KDE Screen Grid Sync",
+		"Description": "Synchronizes virtual desktops across monitors and moves windows to the monitor displaying their desktop.",
+		"Icon": "preferences-desktop-display",
+		"Id": "KDE-screen-grid",
+		"Version": "1.1.0",
+		"License": "GPL-3.0-or-later"
+	},
+	"X-Plasma-API": "javascript",
+	"X-Plasma-MainScript": "code/main.js",
+	"KPackageStructure": "KWin/Script"
+}
